@@ -1,0 +1,3 @@
+import moneyheist
+
+moneyheist.moneyheist()
